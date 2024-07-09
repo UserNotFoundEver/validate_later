@@ -1,2 +1,15 @@
 # validate_later
-old code but now im ona mission to encrypt it for security
+Validetor encrypter version.
+
+# user pip to install pyinstaller
+pip install pyinstaller
+
+# combile code
+pyinstaller --validator.py
+
+# further encryption
+Do your own research
+
+# decryption
+multilayered encryption distiller
+
